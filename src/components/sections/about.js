@@ -132,7 +132,19 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Vue', 'Node.js', 'WordPress'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'HTML & CSS',
+    'React',
+    'Redux',
+    'Node.js',
+    'Python 3',
+    'JQuery',
+    'VB.Net',
+    'C++',
+    'MongoDB',
+    'Git',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -141,19 +153,20 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Brittany, a software engineer based in Boston, MA.</p>
+            <p>Hello! I'm Sammy, a developer based in India.</p>
 
             <p>
-              I enjoy creating things that live on the internet, whether that be websites,
-              applications, or anything in between. My goal is to always build products that provide
-              pixel-perfect, performant experiences.
+              I derive a lot of joy from building applications, be it web applications or desktop
+              applications. My goal is to provide the end-user with the best user experience
+              possible and to make software products user-friendly whilst solving the the main issue
+              that the product was intended for.
             </p>
 
             <p>
-              Shortly after graduating from{' '}
-              <a href="https://www.ccis.northeastern.edu">Northeastern University</a>, I joined the
-              engineering team at <a href="https://www.upstatement.com">Upstatement</a> where I work
-              on a wide variety of interesting and meaningful projects on a daily basis.
+              I am currently enrolled at <a href="https://www.ashoka.edu.in/">Ashoka University</a>{' '}
+              as a Computer Science Major and also working part-time as a freelance web developer
+              where I focus on building fully responsive Web Apps for business looking to upgrade
+              their brand to an online platformm
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
