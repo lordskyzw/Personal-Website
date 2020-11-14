@@ -175,9 +175,9 @@ const About = () => {
 
             <p>
               I have also recently gotten into research where I assist Professor <a href="https://www.daj-gomezramirez.com/">
-              Danny Arlen de Jesús Gómez-Ramírez, Ph.D</a> . in research on Artificial
+              Danny Arlen de Jesús Gómez-Ramírez, Ph.D</a> in his research on Artificial
               Mathematical Intelligence (AMI), i.e., the theoretical and practical foundations of software 
-              able to solve mathematical conjectures with a human-style output
+              able to solve mathematical conjectures with a human-style output.
             </p>
             
             <p>Here are a few technologies I've been working with recently:</p>

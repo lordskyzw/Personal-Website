@@ -55,9 +55,7 @@ const Hero = () => {
       I'm a budding software engineer currently based in India, specializing in building (and
       occasionally designing) exceptional websites, applications, and everything in between. 
       I am also a research assistant currently focusing on new kind of cognitively-inspired AI 
-      called "Artificial Mathematical Intelligence (AMI)", aiming to generate an Universal Mathematical 
-      Artificial Agent (UMAA) and to fill an old gap in the mechanization of mathematics regarding 
-      conceptual artificial generation.
+      called "Artificial Mathematical Intelligence (AMI)". 
     </p>
   );
   const five = (

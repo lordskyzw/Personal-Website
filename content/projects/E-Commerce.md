@@ -12,4 +12,4 @@ company: ''
 showInProjects: true
 ---
 
-Full-Stack web-based :money_with_wings: e-commerce platform built using MERN Stack :hotsprings:
+Full-Stack web-based e-commerce platform built using MERN Stack 
