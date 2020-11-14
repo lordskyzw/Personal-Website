@@ -159,9 +159,9 @@ const About = () => {
             <p>Hello! I'm Sammy, a computer science enthusiast based in India.</p>
 
             <p>
-              I derive a lot of joy from building applications, be it web applications, mobile applications or desktop
+              I derive a lot of joy from building applications, be it web applications, mobile applications, or desktop
               applications. My goal is to provide the end-user with the best user experience
-              possible and to make software products user-friendly whilst solving the the main issue
+              possible and to make software products user-friendly whilst solving the main issue
               that the product was intended for.
             </p>
             
@@ -174,8 +174,7 @@ const About = () => {
             </p>
 
             <p>
-              I have also recently gotten into research where I assist Professor <a href="https://www.daj-gomezramirez.com/">
-              Danny Arlen de Jesús Gómez-Ramírez, Ph.D</a> in his research on Artificial
+              I have also recently gotten into research where I focus on Artificial
               Mathematical Intelligence (AMI), i.e., the theoretical and practical foundations of software 
               able to solve mathematical conjectures with a human-style output.
             </p>
