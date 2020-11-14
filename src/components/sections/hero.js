@@ -49,11 +49,15 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Sammy Nyakabau.</h2>;
-  const three = <h3 className="big-heading">I am a developer.</h3>;
+  const three = <h3 className="big-heading">I am a Computer Science enthusiast.</h3>;
   const four = (
     <p>
       I'm a budding software engineer currently based in India, specializing in building (and
-      occasionally designing) exceptional websites, applications, and everything in between.
+      occasionally designing) exceptional websites, applications, and everything in between. 
+      I am also a research assistant currently focusing on new kind of cognitively-inspired AI 
+      called "Artificial Mathematical Intelligence (AMI)", aiming to generate an Universal Mathematical 
+      Artificial Agent (UMAA) and to fill an old gap in the mechanization of mathematics regarding 
+      conceptual artificial generation.
     </p>
   );
   const five = (

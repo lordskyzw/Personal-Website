@@ -136,6 +136,7 @@ const About = () => {
     'JavaScript (ES6+)',
     'HTML & CSS',
     'React',
+    'React Native',
     'Redux',
     'Node.js',
     'Python 3',
@@ -144,6 +145,8 @@ const About = () => {
     'C++',
     'MongoDB',
     'Git',
+    'Latex',
+    'Java',
   ];
 
   return (
@@ -153,22 +156,30 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Sammy, a developer based in India.</p>
+            <p>Hello! I'm Sammy, a computer science enthusiast based in India.</p>
 
             <p>
-              I derive a lot of joy from building applications, be it web applications or desktop
+              I derive a lot of joy from building applications, be it web applications, mobile applications or desktop
               applications. My goal is to provide the end-user with the best user experience
               possible and to make software products user-friendly whilst solving the the main issue
               that the product was intended for.
             </p>
+            
 
             <p>
               I am currently enrolled at <a href="https://www.ashoka.edu.in/">Ashoka University</a>{' '}
-              as a Computer Science Major and also working part-time as a freelance web developer
+              as a Computer Science Major and also working part-time as a freelance developer
               where I focus on building fully responsive Web Apps for business looking to upgrade
-              their brand to an online platformm
+              their brand to an online platform.
             </p>
 
+            <p>
+              I have also recently gotten into research where I assist Professor <a href="https://www.daj-gomezramirez.com/">
+              Danny Arlen de Jesús Gómez-Ramírez, Ph.D</a> . in research on Artificial
+              Mathematical Intelligence (AMI), i.e., the theoretical and practical foundations of software 
+              able to solve mathematical conjectures with a human-style output
+            </p>
+            
             <p>Here are a few technologies I've been working with recently:</p>
           </div>
 
