@@ -1,6 +1,6 @@
 ---
 date: '2020-10-20'
-title: 'Aviato E-Commerece Web App'
+title: 'Aviato E-Commerce Web App'
 github: 'https://github.com/Sammy-Nyakabau/E-Commerce-Web-App'
 external: ''
 tech:
