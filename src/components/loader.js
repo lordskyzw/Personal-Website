@@ -16,7 +16,6 @@ const StyledLoader = styled.div`
   height: 100%;
   background-color: var(--dark-navy);
   z-index: 99;
-
   .logo-wrapper {
     width: max-content;
     max-width: 100px;
