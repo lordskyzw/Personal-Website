@@ -53,9 +53,8 @@ const Hero = () => {
   const four = (
     <p>
       I'm a budding software engineer currently based in India, specializing in building (and
-      occasionally designing) exceptional websites, applications, and everything in between. 
-      I am also a research assistant currently focusing on new kind of cognitively-inspired AI 
-      called "Artificial Mathematical Intelligence (AMI)". 
+      occasionally designing) exceptional websites, applications, and everything in between. I am
+      also interested in research topics ranging from AI to Blockchain.
     </p>
   );
   const five = (
