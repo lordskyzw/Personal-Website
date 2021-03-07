@@ -158,15 +158,6 @@ const Nav = ({ isHome }) => {
           {isMounted && (
             <CSSTransition classNames={fadeClass} timeout={timeout}>
               <div className="logo" tabIndex="-1">
-                {isHome ? (
-                  <a href="/" aria-label="home">
-                    <IconLogo />
-                  </a>
-                ) : (
-                  <Link to="/" aria-label="home">
-                    <IconLogo />
-                  </Link>
-                )}
               </div>
             </CSSTransition>
           )}
