@@ -14,6 +14,14 @@ module.exports = {
       name: 'Codepen',
       url: 'https://codepen.io/sammy-nyakabau',
     },
+    {
+      name: 'Hackerrank',
+      url: 'https://www.hackerrank.com/nyakabausammy8',
+    },
+    {
+      name: 'StackOverFlow',
+      url: 'https://stackoverflow.com/users/story/11436343',
+    },
   ],
 
   navLinks: [
