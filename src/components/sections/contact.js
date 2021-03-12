@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import styled from 'styled-components';
-import { srConfig, email } from '@config';
+import { srConfig } from '@config';
 import sr from '@utils/sr';
 
 const StyledContactSection = styled.section`
@@ -52,12 +52,12 @@ const Contact = () => {
 
       <p>
         I am always open to new opportunities, collaborations or freelance work, so be sure to shoot
-        me an email if you want us to work together. Whether you have a question or just want to say
-        hi, I'll try my best to get back to you!
+        me an email if you want us to work together. You can also book a session with me if you want to have chat
+        regarding a possible collaboration, work opportunity.
       </p>
 
-      <a className="email-link" href={`mailto:${email}`}>
-        Say Hello
+      <a className="email-link" href={`https://calendly.com/sammy-appointment`}>
+        Book Appointment
       </a>
     </StyledContactSection>
   );

@@ -13,4 +13,4 @@ company: ''
 showInProjects: true
 ---
 
-A desktop implementation of a Cinema Management System using [Visual Basic .NET](https://docs.microsoft.com/dotnet/visual-basic/) and [SQL](https://en.wikipedia.org/wiki/SQL).
+💻 Desktop implementation of a Cinema Management System 🎥 using [Visual Basic .NET](https://docs.microsoft.com/dotnet/visual-basic/) and [SQL](https://en.wikipedia.org/wiki/SQL).

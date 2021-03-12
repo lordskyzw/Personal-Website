@@ -10,4 +10,4 @@ company: ''
 showInProjects: true
 ---
 
-Code snippets which detail the fundamental syntax and concepts introduced in [Python 3](https://docs.python.org/3/contents.html)
+📖 🐍 Code snippets which detail the fundamental syntax and concepts introduced in Python-3
