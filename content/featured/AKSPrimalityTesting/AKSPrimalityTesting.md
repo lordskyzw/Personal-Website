@@ -14,4 +14,4 @@ company: ''
 showInProjects: true
 ---
 
-Web UI implementation of the [AKS Primality Testing Algorithm](https://en.wikipedia.org/wiki/AKS_primality_test) using HTML, CSS, Bootstrap, Python and Brython
+💻 Web UI implementation of the [AKS Primality Testing Algorithm](https://en.wikipedia.org/wiki/AKS_primality_test) ✏️📚 using HTML, CSS, Bootstrap, Python and Brython
