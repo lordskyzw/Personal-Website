@@ -13,4 +13,4 @@ company: ''
 showInProjects: true
 ---
 
-💻 A MERN Stack Template written in JavaScript.
+💻 A MERN Stack Template from Sammy Nyakabau written in JavaScript.

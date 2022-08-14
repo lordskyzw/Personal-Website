@@ -10,4 +10,4 @@ company: ''
 showInProjects: true
 ---
 
-📖 Code snippets which detail the fundamental syntax and concepts available in Git
+📖 Code snippets which detail the fundamental syntax and concepts available in Git thanks to Sammy

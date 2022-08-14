@@ -150,8 +150,7 @@ const About = () => {
     'Git',
     'Latex',
     'Java',
-    'Julia',
-  ];
+      ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -160,19 +159,18 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Sammy, a computer science enthusiast based in India.</p>
+            <p>Hello! I'm Tarmica, a tech enthusiast based in Zimbabwe.</p>
 
             <p>
-              I am currently enrolled at <a href="https://www.ashoka.edu.in/">Ashoka University</a>{' '}
-              as a Computer Science Major and also working part-time as a freelance developer where
-              I focus on building building full-stack Web Apps, Progressive Web Apps (PWAs) and
-              Mobile Apps.
+              I am currently enrolled at <a href="https://www.cut.ac.zw">Chinhoyi University of Technology</a>{' '}
+              as a Computer Engineering Major and also working part-time as a freelance developer where
+              I focus on building building full-stack Web Apps, Progressive Web Apps (PWAs) and 
+              Mobile Apps. 
             </p>
 
             <p>
-              I am also passionate about multidisciplinary research and I am currently focusing on Artificial Mathematical
-              Intelligence (AMI), i.e., the theoretical and practical foundations of software able
-              to solve mathematical conjectures with a human-style output.
+              I am also passionate about security, cryptograghy and penetration testing.
+              I spend a lot of time researching and building networks, carrying out ethical hacking and learning mitigations.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>

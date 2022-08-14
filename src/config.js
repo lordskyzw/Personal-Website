@@ -4,23 +4,23 @@ module.exports = {
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/Sammy-Nyakabau',
+      url: 'https://github.com/lordskyzw',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/sammy-nyakabau/',
+      url: 'https://www.linkedin.com/in/tarimica-chiwara-893a49213',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/sammy-nyakabau',
+      url: 'https://codepen.io/lordskyzw',
     },
     {
       name: 'Hackerrank',
-      url: 'https://www.hackerrank.com/nyakabausammy8',
+      url: 'https://www.hackerrank.com/lilskyforever',
     },
     {
       name: 'StackOverFlow',
-      url: 'https://stackoverflow.com/users/story/11436343',
+      url: 'https://stackoverflow.com/users/13978225/tarmica-chiwara',
     },
     
   ],

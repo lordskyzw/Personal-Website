@@ -1,14 +1,11 @@
 ---
 date: '2020-10-20'
-title: 'Aviato E-Commerce Web App'
+title: 'YouTube Downloader'
 cover: './Aviato.png'
-github: 'https://github.com/Sammy-Nyakabau/E-Commerce-Web-App'
+github: 'https://github.com/lordskyzw/YoutubeDownloader'
 external: ''
 tech:
-  - MongoDB
-  - ExpressJS
-  - REACTJS
-  - NodeJS
+  - Python
 company: ''
 showInProjects: true
 ---

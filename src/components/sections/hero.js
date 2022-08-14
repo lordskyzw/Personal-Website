@@ -53,13 +53,12 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Sammy Nyakabau.</h2>;
-  const three = <h3 className="big-heading">I am a CS enthusiast.</h3>;
+  const two = <h2 className="big-heading">Tarmica Sean Chiwara.</h2>;
+  const three = <h3 className="big-heading">I am a Computer enthusiast.</h3>;
   const four = (
     <p>
-      I'm a budding software engineer currently based in India, specializing in building (and
-      occasionally designing) exceptional websites, applications, and everything in between. I am
-      also interested in research topics ranging from AI to Blockchain.
+      I'm a budding computr engineer currently based in Zimbabwe, specializing in building networks, penetration testing tools, and everything in between. I am
+      also interested in research topics ranging from AI to Blockchain. It is also worth mentioning that I am an exceptonal reverse engineer naturally.
     </p>
   );
   const five = (

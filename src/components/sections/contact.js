@@ -56,7 +56,7 @@ const Contact = () => {
         regarding a possible collaboration, work opportunity.
       </p>
 
-      <a className="email-link" href={`https://calendly.com/sammy-appointment`}>
+      <a className="email-link" href={`https://calendly.com/tarmicachiwara-appointment`}>
         Book Appointment
       </a>
     </StyledContactSection>

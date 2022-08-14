@@ -2,12 +2,12 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Sammy Nyakabau',
+    title: 'Tarmica Chiwara',
     description:
-      'Sammy is a budding software engineer currently  based in India, specializing in building and occasionally designing exceptional websites, applications, and everything in between.',
-    siteUrl: 'https://sammynyakabau.com', // No trailing slash allowed!
-    image: '/me.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '',
+      'Tarmica is a budding computer engineer currently  based in Zimbabwe, specializing in building applications, networks,embedded systems and everything in between.',
+    siteUrl: 'https://tarmicachiwara.tech', // No trailing slash allowed!
+    image: '/IMG_6662.JPG', // Path to your image you placed in the 'static' folder
+    twitterUsername: 'TarmicaChiwara',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -19,8 +19,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'SammyNyakabau',
-        short_name: 'SammyNyakabau',
+        name: 'TarmicaChiwara',
+        short_name: 'Tarmica',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
