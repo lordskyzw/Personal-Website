@@ -12,5 +12,4 @@
 > Personal Website. Credit to [Brittany Chiang](https://brittanychiang.com/)
 
 ### 🏠 Homepage
-![Homepage](src/images/demo.png)
 
